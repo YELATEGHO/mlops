@@ -1,2 +1,1 @@
-"J'aime le MLOps"
-# MLOps Project
+J'aime le MLOps lol
